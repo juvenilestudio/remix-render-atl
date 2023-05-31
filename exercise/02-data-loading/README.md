@@ -1,3 +1,5 @@
 # Data Loading and Mutations
 
-TODO: Write me :)
+= redirect to the app at "/" (hint: look at the path in "<link />" )
+= "sales/customers/[$invoiceId]
+
